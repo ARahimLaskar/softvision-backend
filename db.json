@@ -22,19 +22,6 @@
     }
   ],
   "signup": [
-    {
-      "name": "rahen laskar",
-      "email": "rahen@gmail.com",
-      "password": "123",
-      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ.SflKxwRJSMeKKF2QT4fwpMeJf36POk6yJV_adQssw5c",
-      "id": 1
-    },
-    {
-      "name": "rahen",
-      "email": "arlaskar1002@gmail.com",
-      "password": "123",
-      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ.SflKxwRJSMeKKF2QT4fwpMeJf36POk6yJV_adQssw5c",
-      "id": 2
-    }
+    
   ]
 }
